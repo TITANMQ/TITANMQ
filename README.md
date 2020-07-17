@@ -1,3 +1,5 @@
+
+![GitHub Logo](https://github.com/TITANMQ/TITANMQ/blob/master/Blue%20and%20Yellow%20Technology%20image.png)
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+I am a student studying Computer Science at the University of East Anglia.
+
+### Contact me
+Email: elijahr0001@gmail.com
