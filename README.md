@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### About Me
 I am a student studying Computer Science at the University of East Anglia.
 
-### Contact me
+### Contact Info
 Email: elijahr0001@gmail.com
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
